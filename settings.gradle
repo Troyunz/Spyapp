@@ -1,0 +1,2 @@
+rootProject.name = "Godeye"
+include ':app'
